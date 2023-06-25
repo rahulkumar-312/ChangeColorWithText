@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+
+
+
+#userinput{
+    height: 33px;
+    width: 165px;
+    border-radius: 20px;
+    border-style: none;
+    background-color:#F0EDCC ;
+    color: #02343F;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+button{
+    height: 33px;
+    width: 53px;
+    border-radius: 20px;
+    border-style: none;
+    font-weight: bold;
+    padding-left: 13px 13px;
+    margin-left: 12px;
+    background-color: #02343F;
+    color: #F0EDCC;
+}
